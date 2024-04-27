@@ -1,4 +1,3 @@
-# Ecommerce-Delivery-Charges-Verification-Project
 # Ecommerce Delivery Charges Verification Project
 
 ## Overview
